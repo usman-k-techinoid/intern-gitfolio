@@ -9,3 +9,4 @@
 > "Not All who wander are lost"  
 – J.R.R. Tolkien
 
+"Believe you can and you're halfway there." — Theodore Roosevelt
