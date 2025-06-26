@@ -1,7 +1,7 @@
 # Muhammad Saqib
 
 ## 👨‍💻 Bio
-Hi, I'm Muhammad Saqib — a Computer Science student at UET Lahore (Gujranwala Campus), Flutter developer, and Generative AI enthusiast. With experience across mobile app development, AI-integrated systems, and leadership roles, I thrive at the intersection of technology and impact. I'm passionate about building scalable applications and mentoring future tech leaders.
+Hi, I'm Muhammad Saqib — a Computer Science student at UET Lahore, Flutter developer, and Generative AI enthusiast. With experience across mobile app development, AI-integrated systems, and leadership roles, I thrive at the intersection of technology and impact. I'm passionate about building scalable applications and mentoring future tech leaders.
 
 ## 🛠 Tech Stack
 - **Languages**: Dart, Python, C++, Java
@@ -14,8 +14,10 @@ Hi, I'm Muhammad Saqib — a Computer Science student at UET Lahore (Gujranwala 
 
 ## 🚀 Favorite Projects
 - 📱 **Kaar-e-Kamal App**  
-  A cross-platform app for a welfare organization operating in 60+ cities. Includes donation prediction, Firebase backend, REST APIs, and agentic AI for personalized messages.  
+  A cross-platform app for a welfare organization operating in 60+ cities. Includes donation prediction, Firebase backend, REST APIs, and agentic AI for personalized messages and target adjustment.  
   _[View App/Repo]()_
+  
+  ![Kaar-e-Kamal App Screenshot](assets/image.jpg)
 
 - 💻 **Social Media Console App**  
   Developed a mini social platform in C++ with user login, updates, and a custom encoding scheme for friend relationships.  
@@ -31,6 +33,8 @@ Hi, I'm Muhammad Saqib — a Computer Science student at UET Lahore (Gujranwala 
 ## 🔗 GitHub Profile
 [https://github.com/Muhammadsaqibsharif](https://github.com/Muhammadsaqibsharif)
 
+## 🌐 Linktree
+[All my links in one place](https://linktr.ee/msaqibsharif)
 ---
 
 🌟 _Also connect with me on [LinkedIn](https://www.linkedin.com/in/msaqibsharif) or check out my [Portfolio Website](https://muhammadsaqibsharif.github.io/)_
