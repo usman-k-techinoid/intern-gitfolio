@@ -5,3 +5,4 @@
 
 <!-- ✨ Techlings, add your motivational quote below this line. One per person! -->
 
+"Believe you can and you're halfway there." — Theodore Roosevelt
