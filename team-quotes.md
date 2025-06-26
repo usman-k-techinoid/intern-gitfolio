@@ -6,5 +6,5 @@
 <!-- ✨ Techlings, add your motivational quote below this line. One per person! -->
 
 > "You don't have to see the whole staircase just take the first step"
-- Martin Luther King, Jr.
+
 
