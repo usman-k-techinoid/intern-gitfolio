@@ -15,15 +15,17 @@ Hi, I'm Muhammad Saqib — a Computer Science student at UET Lahore, Flutter dev
 ## 🚀 Favorite Projects
 - 📱 **Kaar-e-Kamal App**  
 A cross-platform app for a welfare organization operating in 60+ cities. Includes donation prediction, Firebase backend, REST APIs, and agentic AI for personalized messages and target adjustment.  
-_[View App/Repo]()_
+_[View App/Repo](https://github.com/Muhammadsaqibsharif/kaar_e_kamal.git)_
 
 <p align="center">
     <img src="assets/image.png" alt="Kaar-e-Kamal App Screenshot" width="500"/>
 </p>
 
-- 💻 **Social Media Console App**  
-  Developed a mini social platform in C++ with user login, updates, and a custom encoding scheme for friend relationships.  
-  _[View Code]()_
+- 🧠 **AI-Powered-Anti-Short-Video-Addiction-Assistant**  
+An AI-driven assistant designed to detect and reduce short-video overconsumption.
+It uses machine learning and agentic intelligence to deliver real-time, personalized interventions..  
+_[View App/Repo](https://github.com/Muhammadsaqibsharif/AI-Powered-Anti-Short-Video-Addiction-Assistant.git)_
+ 
 
 - 🌐 **WordPress Sites (Freelance)**  
   Created responsive, SEO-optimized eCommerce websites with WooCommerce integration for Fiverr clients.  
