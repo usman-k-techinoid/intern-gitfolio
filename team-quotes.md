@@ -3,10 +3,10 @@
 > "Success is not final, failure is not fatal: It is the courage to continue that counts."  
 – Winston Churchill
 
-<<<<<<< feature/readme-sufwan
+
 > "Float like a butterfly, sting like a bee."  
 – Muhammad Ali (Added by Sufwan)
-=======
+
 <!-- ✨ Techlings, add your motivational quote below this line. One per person! -->
 > Written by Zameer
 
@@ -18,6 +18,6 @@
 > "Not All who wander are lost"  
 – J.R.R. Tolkien
 
->>>>>>> main
 
-<!-- ✨ Techlings, add your motivational quote below this line. One per person! -->
+"Believe you can and you're halfway there." — Theodore Roosevelt
+
