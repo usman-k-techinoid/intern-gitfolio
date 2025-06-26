@@ -1,4 +1,4 @@
-Hi! I'm Talal, a Techling at Techinoid exploring AI/ML.
+Hi! I'm Talal, a Techling at Techinoid exploring AI/ML. I love to play sports.
 
 Skills:
 Python,Django,Pyqt,Pytorch,tensorflow
