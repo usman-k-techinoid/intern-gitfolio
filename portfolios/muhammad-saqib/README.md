@@ -14,10 +14,10 @@ Hi, I'm Muhammad Saqib — a Computer Science student at UET Lahore, Flutter dev
 
 ## 🚀 Favorite Projects
 - 📱 **Kaar-e-Kamal App**  
-  A cross-platform app for a welfare organization operating in 60+ cities. Includes donation prediction, Firebase backend, REST APIs, and agentic AI for personalized messages and target adjustment.  
-  _[View App/Repo]()_
-  
-  ![Kaar-e-Kamal App Screenshot](assets/image.jpg)
+A cross-platform app for a welfare organization operating in 60+ cities. Includes donation prediction, Firebase backend, REST APIs, and agentic AI for personalized messages and target adjustment.  
+_[View App/Repo]()_
+
+<img src="assets/image.jpg" alt="Kaar-e-Kamal App Screenshot" width="350"/>
 
 - 💻 **Social Media Console App**  
   Developed a mini social platform in C++ with user login, updates, and a custom encoding scheme for friend relationships.  
