@@ -14,7 +14,7 @@ Hi! I'm Rafeel, a fresh graduate from FAST NUCES. Currently working as a AI/ML i
 | [Pneumonia Detection](https://github.com/Rafeel1/Pneumonia-Detection-System) | A Pneumonia detection system | Python, CNN |
 
 ## 🧠 Fun Fact
-
+I can speak three languages Urdu, English and German.
 
 ## 🔗 GitHub
 [github.com/Rafeel1](https://github.com/Rafeel1)
