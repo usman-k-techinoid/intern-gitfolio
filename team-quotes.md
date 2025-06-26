@@ -4,7 +4,8 @@
 – Winston Churchill
 
 <!-- ✨ Techlings, add your motivational quote below this line. One per person! -->
+> Written by Zameer
 
-> "You don't have to see the whole staircase just take the first step"
-
+> "Not All who wander are lost"  
+– J.R.R. Tolkien
 
