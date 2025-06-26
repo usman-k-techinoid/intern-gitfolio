@@ -30,7 +30,8 @@ _[View App/Repo]()_
   _[See Fiverr Profile](https://www.fiverr.com/msaqib10)_
 
 ## 🎯 Fun Fact or Quote
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.” 
+– Cory House
 
 ## 🔗 GitHub Profile
 [https://github.com/Muhammadsaqibsharif](https://github.com/Muhammadsaqibsharif)
