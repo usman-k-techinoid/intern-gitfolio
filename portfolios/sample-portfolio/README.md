@@ -1,22 +1,20 @@
-# 🌟 Jane Doe's Gitfolio
+# 🌟 Rafeel's Gitfolio
 
 ## 👩‍💻 About Me
-Hi! I'm Jane, a Techling at Techinoid exploring the world of full-stack development. I enjoy building clean UIs and automating boring tasks.
-
+Hi! I'm Rafeel, a fresh graduate from FAST NUCES. Currently working as a AI/ML intern at techinoid. I enjoy solving real world problems.
 ## 🛠️ Skills
-- HTML, CSS, JavaScript
-- Python, Django
+- AI/ML
 - Git & GitHub
-- SQL, PostgreSQL
+- Python, Django, SQL
 
 ## 📂 Projects
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [TaskTrek](https://github.com/janedoe/tasktrek) | A personal task manager with reminders | Django, Bootstrap |
-| [Weatherify](https://github.com/janedoe/weatherify) | A weather app with animated icons | HTML, JS, OpenWeatherMap API |
+| [Skin Cancer Detection using DCAC](https://github.com/Rafeel1/Skin-Cancer-Detection-using-Double-Condenser-Attention-Condenser) | A Skin cancer Detection System | Python, CNN |
+| [Pneumonia Detection](https://github.com/Rafeel1/Pneumonia-Detection-System) | A Pneumonia detection system | Python, CNN |
 
 ## 🧠 Fun Fact
 I can type 100+ words per minute and once built a chatbot that responded in Shakespearean English.
 
 ## 🔗 GitHub
-[github.com/janedoe](https://github.com/janedoe)
+[github.com/Rafeel1](https://github.com/Rafeel1)
