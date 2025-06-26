@@ -14,7 +14,7 @@ Hi! I'm Rafeel, a fresh graduate from FAST NUCES. Currently working as a AI/ML i
 | [Pneumonia Detection](https://github.com/Rafeel1/Pneumonia-Detection-System) | A Pneumonia detection system | Python, CNN |
 
 ## 🧠 Fun Fact
-I can type 100+ words per minute and once built a chatbot that responded in Shakespearean English.
+
 
 ## 🔗 GitHub
 [github.com/Rafeel1](https://github.com/Rafeel1)
