@@ -18,7 +18,7 @@ A cross-platform app for a welfare organization operating in 60+ cities. Include
 _[View App/Repo]()_
 
 <p align="center">
-    <img src="assets/image.jpg" alt="Kaar-e-Kamal App Screenshot" width="500"/>
+    <img src="assets/image.png" alt="Kaar-e-Kamal App Screenshot" width="500"/>
 </p>
 
 - 💻 **Social Media Console App**  
