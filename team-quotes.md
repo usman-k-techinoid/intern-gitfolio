@@ -5,3 +5,5 @@
 
 <!-- ✨ Techlings, add your motivational quote below this line. One per person! -->
 
+> "Do what you love, and you'll never work a day in your life."  
+– Confucius
